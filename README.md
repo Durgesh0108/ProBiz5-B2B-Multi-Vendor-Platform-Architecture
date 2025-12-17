@@ -75,7 +75,7 @@ Integrated Razorpay for vendor subscriptions. To prevent payment spoofing, I imp
 
 Pseudocode Logic:
 
-```
+```js
 import crypto from 'crypto';
 
 export async function POST(req) {

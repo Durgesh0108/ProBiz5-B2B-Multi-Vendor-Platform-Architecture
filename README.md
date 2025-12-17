@@ -98,7 +98,7 @@ export async function POST(req) {
 }
 ```
 
-### 5. Quantitative Results ###
+## 5. Quantitative Results 
 * **SEO & Traffic:** Switching to SSR reduced Initial Page Load time by 40%, leading to a measurable increase in organic search traffic.
 
 * **Lead Conversion:** Optimized search logic improved service discoverability, resulting in a 2x increase in inquiries sent to vendors.
